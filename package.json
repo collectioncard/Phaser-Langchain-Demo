@@ -1,19 +1,18 @@
 {
+  "name": "phaserlangchaindemo",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
   "dependencies": {
     "@langchain/core": "^0.3.61",
     "langchain": "^0.3.29",
     "phaser": "^3.90.0",
     "vite": "^6.3.5"
   },
-  "name": "phaserlangchaindemo",
-  "version": "1.0.0",
-  "main": "./src/main.js",
-  "scripts": {
-    "dev": "vite"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "type": "module",
-  "description": ""
+  "license": "ISC"
 }

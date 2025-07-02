@@ -1,4 +1,4 @@
-import {Phaser} from 'phaser';
+import Phaser from 'phaser';
 
 class GameScene extends Phaser.Scene {
     constructor() {
@@ -87,3 +87,5 @@ class GameScene extends Phaser.Scene {
         this.spriteCount = 0;
     }
 }
+
+export default GameScene;
